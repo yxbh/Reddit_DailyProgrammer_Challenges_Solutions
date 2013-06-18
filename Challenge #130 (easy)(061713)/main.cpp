@@ -43,4 +43,3 @@ int main(const int argc,const char* const argv[]/**/)
 	print_dice(argc, argv);
 	return 0;
 }
-
